@@ -1,10 +1,9 @@
-package hotel.service;
+package src.hotel.service;
  
-import hotel.model.Room;
-import hotel.model.RoomCategory;
-import hotel.storage.FileStorageManager;
+import src.hotel.model.Room;
+import src.hotel.model.RoomCategory;
+import src.hotel.storage.FileStorageManager;
  
-import java.time.LocalDate;
 import java.util.*;
 import java.util.stream.Collectors;
  
